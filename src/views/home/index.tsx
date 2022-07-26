@@ -34,7 +34,7 @@ export const HomeView: FC = ({ }) => {
           Scaffold Lite <span className='text-sm font-normal align-top text-slate-700'>v{pkg.version}</span>
         </h1>
         <h4 className="md:w-full text-center text-slate-300 my-2">
-          <p>Simply the fastest way to get started.</p>
+          <p>Look what I did!. Simply the fastest way to get started.</p>
           Next.js, tailwind, wallet, web3.js, and more.
         </h4>
         <div className="max-w-md mx-auto mockup-code bg-primary p-6 my-2">
